@@ -1,0 +1,6 @@
+/home/ymclins/eclipse-workspace/conversor/src/main/java/br/com/projeto/dolar/model/Conversor.java
+/home/ymclins/eclipse-workspace/conversor/src/main/java/br/com/projeto/dolar/config/RootConfig.java
+/home/ymclins/eclipse-workspace/conversor/src/main/java/br/com/projeto/dolar/dao/ConversorDao.java
+/home/ymclins/eclipse-workspace/conversor/src/main/java/br/com/projeto/dolar/controller/ConversorController.java
+/home/ymclins/eclipse-workspace/conversor/src/main/java/br/com/projeto/dolar/config/SpringMvcConfig.java
+/home/ymclins/eclipse-workspace/conversor/src/main/java/br/com/projeto/dolar/config/SpringInitConfig.java
